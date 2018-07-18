@@ -1,2 +1,2 @@
-# CSharpKeylogger
+# C# Keylogger
 simple keylogger application for Windows
