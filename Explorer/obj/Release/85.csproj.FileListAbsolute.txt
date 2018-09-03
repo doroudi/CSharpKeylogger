@@ -1,0 +1,12 @@
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\bin\Release\85.exe.config
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\bin\Release\85.exe
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\bin\Release\85.pdb
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\85.csprojResolveAssemblyReference.cache
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.Form1.resources
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\Explorer.Properties.Resources.resources
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\85.csproj.GenerateResource.Cache
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\85.exe
+C:\Users\Doroudi\Documents\Visual Studio 2013\Projects\Explorer\Explorer\obj\Release\85.pdb
+E:\C#\Keylogger 85\Explorer\bin\Release\85.exe.config
+E:\C#\Keylogger 85\Explorer\obj\Release\85.exe
+E:\C#\Keylogger 85\Explorer\obj\Release\85.pdb

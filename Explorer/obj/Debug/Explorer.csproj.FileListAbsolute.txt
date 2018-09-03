@@ -1,0 +1,9 @@
+c:\users\doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\obj\Debug\Explorer.csprojResolveAssemblyReference.cache
+c:\users\doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+c:\users\doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.Cache
+c:\users\doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\obj\Debug\Explorer.Form1.resources
+C:\Users\Doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\bin\Debug\85.exe.config
+C:\Users\Doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\bin\Debug\85.exe
+C:\Users\Doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\bin\Debug\85.pdb
+C:\Users\Doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\obj\Debug\85.exe
+C:\Users\Doroudi\documents\visual studio 2013\Projects\Explorer\Explorer\obj\Debug\85.pdb
